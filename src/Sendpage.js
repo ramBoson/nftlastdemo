@@ -9,8 +9,8 @@ import storehash from './storehash';
 
 import { Router, Route, Switch } from "react-router-dom";
 
-import First from "./First";
-import Second from "./Second";
+//import First from "./First";
+//import Second from "./Second";
 import Nft from "./Nft";
 import Tokencreate from "./Tokencreate";
 import PrintallImage from "./Printallimage";

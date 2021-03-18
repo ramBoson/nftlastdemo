@@ -9,8 +9,8 @@ import ipfs from './ipfs';
 
 import { Router, Route, Switch } from "react-router-dom";
 
-import First from "./First";
-import Second from "./Second";
+//import First from "./First";
+//import Second from "./Second";
 import Nft from "./Nft";
 import Newpage from "./Newpage";
 import Sendpage from "./Sendpage";
