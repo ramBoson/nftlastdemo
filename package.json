@@ -15,7 +15,8 @@
     "web3": "^1.0.0-beta.26"
   },
   "engines": {
-    "node": "6.11.1"
+    "node": "15.6.0",
+    "npm": "7.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
